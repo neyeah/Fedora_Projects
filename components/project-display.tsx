@@ -32,7 +32,7 @@ const PROJECTS = [
     tags: ["Documentation"],
     description:
       "Created a personal blog where I'll document my Outreachy journey and share my experiences. Having a blog allows me to reflect on my learning process and share knowledge with others who might be interested in similar paths.",
-      link: "https://medium.com/@neyehh",
+       link: "https://medium.com/@neyehh",
   },
   {
     id: "3",
@@ -78,6 +78,15 @@ const PROJECTS = [
     description:
       "Organized and planned a Fedora-related event in Abuja, Nigeria, featuring workshops, talks, and community meetups. The event aimed to introduce Fedora and encourage contributions to the community. The detailed plan included Promotional strategies, goals, a timeline, and necessary resources. This initiative could help raise awareness about Fedora and fostered a local community of open-source enthusiasts.",
     link: "https://docs.google.com/document/d/1gvsPtcxC1AQMhGj9q6VEKdRnanQywhF-SRb5EuDF4j0/edit?usp=sharing",
+  },
+  {
+    id: "8",
+    title: "A high level timeline for my Outreachy internship",
+    completed: true,
+    tags: ["Event Planning"],
+    description:
+      "Created an overview of my proposed plan for the three-month internship Focusing on Enhancing DEI Event Organization Documentation and Coordinating with Local Communities",
+    link: "https://docs.google.com/document/d/1YL8v0kL3q4wOx0dChBc4l1ft1vi5dQ3oJcI7OzdJWRM/edit?usp=sharing",
   },
 ]
 
